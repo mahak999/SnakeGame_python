@@ -1,7 +1,6 @@
 # SnakeGame_python
 Snake game made using the Turtle graphics library of python
 
-<img src = "Screen Shot 2021-05-20 at 10.53.33 PM.png" width = "550" height = "500">
 <img src = "Screen Shot 2021-05-20 at 10.57.45 PM.png" width = "550" height = "500">
 <img src = "Screen Shot 2021-05-20 at 10.52.43 PM.png" width = "550" height = "500">
 
