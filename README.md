@@ -2,8 +2,8 @@
 Snake game made using the Turtle graphics library of python
 <table> 
 <tr border="0">
-  <td> <img src = "board.png" width = "550" height = "500"></td>
-  <td><img src = "score.png" width = "550" height = "500"> </td>
+  <td> <img src = "board.png" width = "250" height = "250"></td>
+  <td><img src = "score.png" width = "250" height = "250"> </td>
 </tr>
 </table>
 
