@@ -1,8 +1,13 @@
 # SnakeGame_python
 Snake game made using the Turtle graphics library of python
+<table> 
+<tr border="0">
+  <td> <img src = "board.png" width = "550" height = "500"></td>
+  <td><img src = "score.png" width = "550" height = "500"> </td>
+</tr>
+</table>
 
-<img src = "Screen Shot 2021-05-20 at 10.57.45 PM.png" width = "550" height = "500">
-<img src = "Screen Shot 2021-05-20 at 10.52.43 PM.png" width = "550" height = "500">
+
 
 # Installation Requirements
 1. Install python [here](https://www.python.org/downloads/)
